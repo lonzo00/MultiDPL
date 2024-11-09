@@ -1,0 +1,80 @@
+[
+  {
+    "name": "BOB",
+    "rpc_url": "https://rpc.gobob.xyz",
+    "chain_id": "60808",
+    "explorer": "https://explorer.gobob.xyz/"
+  },
+  {
+    "name": "BASE",
+    "rpc_url": "https://base.llamarpc.com",
+    "chain_id": "8453",
+    "explorer": "https://basescan.org/"
+  },
+  {
+    "name": "OP",
+    "rpc_url": "https://optimism.llamarpc.com",
+    "chain_id": "10",
+    "explorer": "https://optimistic.etherscan.io/"
+  },
+  {
+    "name": "Superseed Testnet",
+    "rpc_url": "https://sepolia.superseed.xyz",
+    "chain_id": "53302",
+    "explorer": "https://sepolia-explorer.superseed.xyz/"
+  },
+  {
+    "name": "BASE SEPOLIA",
+    "rpc_url": "https://base-sepolia-rpc.publicnode.com",
+    "chain_id": "84532",
+    "explorer": "https://sepolia.basescan.org/"
+  },
+  {
+    "name": "Sepolia Testnet",
+    "rpc_url": "https://1rpc.io/sepolia",
+    "chain_id": "11155111",
+    "explorer": "https://sepolia.etherscan.io"
+  },
+  {
+    "name": "Celo",
+    "rpc_url": "https://celo.drpc.org",
+    "chain_id": "42220",
+    "explorer": "https://explorer.celo.org/mainnet/"
+  },
+  {
+    "name": "PolygonzkEVM",
+    "rpc_url": "https://zkevm-rpc.com",
+    "chain_id": "1101 ",
+    "explorer": "https://zkevm.polygonscan.com/"
+  },
+  {
+    "name": "fraxtal",
+    "rpc_url": "https://fraxtal.drpc.org",
+    "chain_id": "252",
+    "explorer": "https://www.fractalexplorer.io/"
+  },
+  {
+    "name": "Gravity mainnet ",
+    "rpc_url": "https://rpc.gravity.xyz",
+    "chain_id": "1625",
+    "explorer": "https://explorer.gravity.xyz/"
+  },
+  {
+    "name": "Story testnet ",
+    "rpc_url": "https://testnet.storyrpc.io",
+    "chain_id": "1513",
+    "explorer": "https://testnet.storyscan.xyz/"
+  },
+  {
+    "name": "Minato",
+    "rpc_url": "https://rpc.minato.soneium.org/",
+    "chain_id": "1946",
+    "explorer": "https://soneium-minato.blockscout.com/"
+  },
+  {
+    "name": "Story Odyssey",
+    "rpc_url": "https://story-rpc-evm.mandragora.io",
+    "chain_id": "1516 ",
+    "explorer": "https://odyssey.storyscan.xyz/"
+  }
+]
