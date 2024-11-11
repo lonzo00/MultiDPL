@@ -1,4 +1,4 @@
-multid: A Versatile Tool for [Describe Core Functionality]
+multid: A Versatile Tool.
 The multid tool is a Go-based application designed to streamline interactions with various blockchain nodes. 
 Built with flexibility and developer ease in mind, this tool aims to simplify complex, repetitive tasks and provide seamless integration with diverse blockchain environments.
 
