@@ -34,6 +34,7 @@ type Blockchain struct {
 }
 
 var blockchainFile = "blockchains.json"
+//chatgpt api interface not working at the moment wait for feature 
 var openAIAPIKey = "yourAPIKEY"
 
 func saveBlockchains(blockchains []Blockchain) error {
