@@ -34,7 +34,7 @@ type Blockchain struct {
 }
 
 var blockchainFile = "blockchains.json"
-var openAIAPIKey = "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"
+var openAIAPIKey = "yourAPIKEY"
 
 func saveBlockchains(blockchains []Blockchain) error {
 	jsonData, _ := json.MarshalIndent(blockchains, "", "  ")
